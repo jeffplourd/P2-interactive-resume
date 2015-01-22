@@ -247,6 +247,4 @@ function inName(name){
 
 $("#main").append(internationalizeButton);
 
-//This should create a google hangout button to connect with me.
 
-gapi.hangout.render('#placeholder-div', { 'render': 'createhangout' });
